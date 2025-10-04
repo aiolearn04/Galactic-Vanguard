@@ -20,7 +20,7 @@ Advanced Machine Learning system for automated exoplanet detection using NASA's 
 1. Clone the repository:
 ```bash
 git clone https://github.com/aiolearn04/Galactic-Vanguard.git
-cd "Hunting for Exoplanets with AI"
+cd "Galactic-Vanguard-main"
 ```
 
 2. Install dependencies:
